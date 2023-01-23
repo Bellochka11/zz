@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\zz\zad_2\bin\Debug\net7.0\zad_2.exe
+C:\Users\e.belyankina\Desktop\zz\zad_2\bin\Debug\net7.0\zad_2.deps.json
+C:\Users\e.belyankina\Desktop\zz\zad_2\bin\Debug\net7.0\zad_2.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\zz\zad_2\bin\Debug\net7.0\zad_2.dll
+C:\Users\e.belyankina\Desktop\zz\zad_2\bin\Debug\net7.0\zad_2.pdb
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.dll
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\refint\zad_2.dll
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.pdb
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\zad_2.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\zz\zad_2\obj\Debug\net7.0\ref\zad_2.dll
