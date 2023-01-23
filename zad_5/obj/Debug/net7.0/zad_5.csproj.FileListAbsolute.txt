@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\zz\zad_5\bin\Debug\net7.0\zad_5.exe
+C:\Users\e.belyankina\Desktop\zz\zad_5\bin\Debug\net7.0\zad_5.deps.json
+C:\Users\e.belyankina\Desktop\zz\zad_5\bin\Debug\net7.0\zad_5.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\zz\zad_5\bin\Debug\net7.0\zad_5.dll
+C:\Users\e.belyankina\Desktop\zz\zad_5\bin\Debug\net7.0\zad_5.pdb
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.dll
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\refint\zad_5.dll
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.pdb
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\zad_5.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\zz\zad_5\obj\Debug\net7.0\ref\zad_5.dll
